@@ -9,6 +9,6 @@ I will provide the current source code later, or... ironically, you can use the 
 
 ![Untitled](https://github.com/user-attachments/assets/37e35de5-6f57-4b21-b4be-e60ab3ce5dce)
 
-Out of whatever respect I have left, I have censored the name of the tool whose tool was decompiled, although I can assure you that certain hispanic BT3 modders already got a hold of it through abnormal means, given that it is close-source and not pubicly released.
+Out of whatever respect I have left, I have censored the name of the tool that was decompiled, although I can assure you that certain hispanic BT3 modders already got a hold of it through abnormal means, given that it is close-source and not pubicly released.
 
 Also, **this tool does not encourage any unethical use of decompiling.** It is only supposed to facilitate another tool, where that responsibility falls under.
