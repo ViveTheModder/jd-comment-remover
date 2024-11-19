@@ -5,13 +5,13 @@ It will automatically **skip non-Java files**, or **Java files** that already **
 
 I wrote this last week while at work, and updated it last second today, so the only code I have is an older copy.
 
-I will provide the current source code later, or... ironically, you can use the decompiler and just decompile the [provided .jar file](https://github.com/ViveTheModder/jd-comment-remover/releases).
+Ironically, you can use the decompiler and just decompile the [provided .jar file](https://github.com/ViveTheModder/jd-comment-remover/releases).
 
 ![cap1](https://i.imgur.com/CyYEBrn.png)
 
 ![cap2](https://i.imgur.com/umNrPrc.png)
 
-It is far from perfect, especially in cases where the decompiled code used regex or at least the same expression I used.
+It is far from perfect, especially in cases where the decompiled code uses regex or at least the same expression I used.
 
 ![Untitled](https://github.com/user-attachments/assets/37e35de5-6f57-4b21-b4be-e60ab3ce5dce)
 
